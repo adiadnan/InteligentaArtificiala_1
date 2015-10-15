@@ -18,7 +18,7 @@ public class IntelligenceHandler {
     
     private final String botName = "mybot";
     
-    private final String path = "C:/example";
+    private final String path = "D:\\IA\\InteligentaArtificiala_1\\example";
     
     private String sessionUser = "";
     

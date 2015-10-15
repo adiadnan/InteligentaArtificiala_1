@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8">
+<category>
+<pattern>HELLO ALICE</pattern>
+<template>
+Hello Useeeeer
+</template>
+</category>
+<category>
+<pattern>I HAVE TRAVELED TO MARS</pattern>
+<template>
+I'd love to
+</template>
+</category>
+<category>
+<pattern>WHAT IS MY JOB</pattern>
+<template>
+CEO
+</template>
+</category>
+</aiml>
